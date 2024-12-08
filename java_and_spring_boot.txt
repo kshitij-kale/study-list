@@ -1,0 +1,50 @@
+Java
+JIT
+Garbage collection
+Soft, weak & phantom references
+Serializable & externizable
+Transient
+SerialVersionUID
+Collection framework
+Lambda expressions
+Functional interfaces
+Default & static methods
+Optional class
+Streams
+Heap Dump
+Memory leaks
+BufferedInputStream, BufferedOutputStream
+Packages
+Exception handling
+Memory management & garbage collection
+Multithreding concurreny & threads
+JVM, JRE, JDK
+JPA
+Bean, scopes & lifecycle
+Hibernate
+Dispatcher Servlet
+View Resolver
+Actuator
+Entity lifecycle
+Tomcat
+JDBC
+Batch processing
+Connection pool
+Hibernate
+JPQL & HQL
+Jackson
+Circuit breaker
+Dependency injection
+Unit testing
+Jnit
+Mocking & mockito
+Integration testing
+Embedded databases(H2)
+Load testing
+Profiling (VisualVM)
+Spring security
+Thymeleaf
+Log4j
+QueryDSL
+Aspect oriented programming
+Runtime weaving & compile time weaving
