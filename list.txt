@@ -1,0 +1,400 @@
+Linear Search
+Two pointer
+Merge intervals
+Backtracking
+Hash table
+Sliding window
+Trie
+Modified binary search
+Binary search on answer space
+Sorting
+Greedy
+Heap
+Two Heaps
+Inorder, preorder, postorder traversal
+Level order traversal
+Segment tree
+Topological sort
+Union find
+Merge sort
+Fast & slow pointer
+Inplace reversal of ll
+Quickselect 
+Bucket sort
+Bit Manipulation
+Prefix sum
+Simulation
+Monotonic stack
+Monotonic Queue
+Graphs
+BFS
+DFS
+Dijstra
+Bellman ford
+DP
+0/1 knapsack
+Matrix chain multiplication
+LCS
+LIS
+Kadane
+Boyer Moore
+
+-----------------------------------------------------------------------------
+
+OOAD
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+Single responsibility principle
+Open closed principle
+Liskov substitution principle
+Inherface segregation princple
+Dependency inversion
+Builder
+Factory
+Abstract factory
+Factory method
+Prototype
+Singleton
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+COR
+Command
+Mementor
+Observer
+Template method
+Visitor
+Iterator
+Mediator
+State
+Strategy
+Use case diagram
+Class diagram
+Sequence diagram
+Activity diagram
+Parking lot
+Elevator system
+Libary management system
+Amazon locker service
+Vending machine
+Online blackjack game
+Meeting scheduler
+Movie ticketing system
+Car rental service
+ATM
+Chess game
+Hotel managment system
+Amazon online shopping system
+Stack overflow
+Restaurant management system
+Facebook
+Online stock brokerage system
+Jigsaw puzzle 
+Airplane booking system
+Crikinfo
+Linkedin
+
+--------------------------------------------------------------------------------
+
+Java
+JIT
+Garbage collection
+Soft, weak & phantom references
+Serializable & externizable
+Transient
+SerialVersionUID
+Collection framework
+Lambda expressions
+Functional interfaces
+Default & static methods
+Optional class
+Streams
+Heap Dump
+Memory leaks
+BufferedInputStream, BufferedOutputStream
+Packages
+Exception handling
+Memory management & garbage collection
+Multithreding concurreny & threads
+JVM, JRE, JDK
+JPA
+Bean, scopes & lifecycle
+Hibernate
+Dispatcher Servlet
+View Resolver
+Actuator
+Entity lifecycle
+Tomcat
+JDBC
+Batch processing
+Connection pool
+Hibernate
+JPQL & HQL
+Jackson
+Circuit breaker
+Dependency injection
+Unit testing
+Jnit
+Mocking & mockito
+Integration testing
+Embedded databases(H2)
+Load testing
+Profiling (VisualVM)
+Spring security
+Thymeleaf
+Log4j
+QueryDSL
+Aspect oriented programming
+Runtime weaving & compile time weaving
+
+--------------------------------------------------------------------------------
+
+Program, process, threads
+Concurrency vs Parallelism
+Mutex, Semaphore
+Deadlocks
+Amdahl's law
+Moore's law
+Syncronized
+Volatile
+Atomic class
+Thread pool
+Executor service
+Runnable
+Callable
+
+--------------------------------------------------------------------------------
+
+Javascript 
+var, let & const
+Type coresion
+Arrow functions
+Closures & Lexical scopes
+Immediaetly invoked function expressions
+Error handling
+Event loop
+Promises
+async await
+DOM manipulation
+Event handling
+Destructuring
+Spread & Rest operators
+Import & Export
+Contruction functions
+this keyword
+Inheritance vs composition
+Global, function & block scopes
+Hoisting
+Temporal dead zone
+Event bubbling & capturing
+Stop propogation & prevent default
+Custom events
+Garbage collection
+Memory leaks & prevention
+V8
+JIT
+Microtasks & macrotasks
+Webworkers
+Fetch API
+ES Modules
+Forms
+JSON
+Typescript
+Angular
+Modules
+Components
+Templates
+Directives
+Services & Dependency injection
+Angular CLI
+NPM
+Classes, interfaces & Decorators
+Component lifecycle hooks
+@Input @Output
+Change detection strategies
+Structural directives
+Attribute directives
+Custom directives
+Pipes
+Interpolation
+Property binding
+Event binding
+Two way binding
+Dependency injection
+Hierarchical injector
+@Inject and Injectable
+Routing
+Template driven forms
+Reactive forms
+Event emitters
+RxJS & state managment
+Actions, reducers and selectors
+Effects & store
+Observables & subscription
+Subjects
+Unsubscribing
+HTTP Client
+JWT with angular
+
+--------------------------------------------------------------------------------
+
+CSS
+HTML
+
+--------------------------------------------------------------------------------
+
+SQL
+DDL, DML, DCL
+Transactions
+ACID
+Joins
+Subqueries
+Aggregate functions
+Contraints
+Normalization & Denormalization(1NF, 2NF, 3NF, BCNF)
+Procedures & functions
+Before & After triggers
+Isolation levels
+Window functions
+Common table expression
+Functional indexes
+
+--------------------------------------------------------------------------------
+
+Elastic search
+Logstash
+
+--------------------------------------------------------------------------------
+
+Kafka
+
+--------------------------------------------------------------------------------
+
+Scala
+Spark
+
+--------------------------------------------------------------------------------
+
+Git
+Repositories
+Branching
+Merge & rebase
+Fork
+Reflog
+Squash
+Stash
+Revert
+Bisect
+Worktree
+Tags
+Cherry picking
+
+--------------------------------------------------------------------------------
+
+Linux
+Bash
+
+--------------------------------------------------------------------------------
+
+Docker
+Kubernetes
+
+--------------------------------------------------------------------------------
+
+Computer architecture
+
+--------------------------------------------------------------------------------
+
+Operating Systems
+
+--------------------------------------------------------------------------------
+
+Computer Networks
+
+--------------------------------------------------------------------------------
+
+Database management systems
+
+--------------------------------------------------------------------------------
+
+Availability
+Reliability
+Scalabiilty
+Maintainibility
+Fault Tolerence
+DNS Resolution
+Load Balancers
+Consistent Hashing
+Types of databases
+Indexing
+Bloom fitlers
+Append log
+Replication
+Partitioning
+Key-value stores
+CDN
+Sequencer
+Distribuetd monitoring
+Caching
+Message Queue
+Pub-sub
+Rate limiter
+Blob store
+Distribued search
+Distributed logging
+Distributed task scheduler
+Shared Counters
+Stream processing
+Batch processing
+Youtube
+Quora
+Google maps
+Yelp
+Uber
+Twitter
+Newsfeed
+Instagram
+TinyURL
+Web Crawler
+WhatsApp
+Typehead suggestion
+Google docs
+
+--------------------------------------------------------------------------------
+
+Observability vs monitoring
+Logs, metrics & traces
+Hybrid observability
+Metrics
+Couter, gauge, histogram & summary
+High-cardinality metrics
+Rules
+Metric collection
+Prometheus, Datadog, Grafana
+Pushing vs pulling metrics
+Exporter concepts
+Monitoring resources (CPU, memory, disk & network)
+Application-specific metrics
+Alerts (SLA Breaches)
+Structured vs unstructed logs
+Log levels
+Log forwarders: filebeat, fluent bit
+Log tools: elastic search
+Log parsing & filtering
+Log correlation
+Distribued tracing
+Microservices architecture
+Spans, traces
+OpenTelemetry
+Sampling strategies
+Dependency graphs
+Dynatrace
+
+--------------------------------------------------------------------------------
+
