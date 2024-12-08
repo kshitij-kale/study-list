@@ -1,0 +1,40 @@
+Linear Search
+Two pointer
+Merge intervals
+Backtracking
+Hash table
+Sliding window
+Trie
+Modified binary search
+Binary search on answer space
+Sorting
+Greedy
+Heap
+Two Heaps
+Inorder, preorder, postorder traversal
+Level order traversal
+Segment tree
+Topological sort
+Union find
+Merge sort
+Fast & slow pointer
+Inplace reversal of ll
+Quickselect 
+Bucket sort
+Bit Manipulation
+Prefix sum
+Simulation
+Monotonic stack
+Monotonic Queue
+Graphs
+BFS
+DFS
+Dijstra
+Bellman ford
+DP
+0/1 knapsack
+Matrix chain multiplication
+LCS
+LIS
+Kadane
+Boyer Moore
