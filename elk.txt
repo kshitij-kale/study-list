@@ -1,0 +1,4 @@
+Logstah
+Filebeat
+Elasticsearch
+Kibana
