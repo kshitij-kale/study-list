@@ -1,0 +1,27 @@
+Observability vs monitoring
+Logs, metrics & traces
+Hybrid observability
+Metrics
+Couter, gauge, histogram & summary
+High-cardinality metrics
+Rules
+Metric collection
+Prometheus, Datadog, Grafana
+Pushing vs pulling metrics
+Exporter concepts
+Monitoring resources (CPU, memory, disk & network)
+Application-specific metrics
+Alerts (SLA Breaches)
+Structured vs unstructed logs
+Log levels
+Log forwarders: filebeat, fluent bit
+Log tools: elastic search
+Log parsing & filtering
+Log correlation
+Distribued tracing
+Microservices architecture
+Spans, traces
+OpenTelemetry
+Sampling strategies
+Dependency graphs
+Dynatrace
