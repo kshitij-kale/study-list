@@ -1,0 +1,69 @@
+var, let & const
+Type coresion
+Arrow functions
+Closures & Lexical scopes
+Immediaetly invoked function expressions
+Error handling
+Event loop
+Promises
+async await
+DOM manipulation
+Event handling
+Destructuring
+Spread & Rest operators
+Import & Export
+Contruction functions
+this keyword
+Inheritance vs composition
+Global, function & block scopes
+Hoisting
+Temporal dead zone
+Event bubbling & capturing
+Stop propogation & prevent default
+Custom events
+Garbage collection
+Memory leaks & prevention
+V8
+JIT
+Microtasks & macrotasks
+Webworkers
+Fetch API
+ES Modules
+Forms
+JSON
+Typescript
+Angular
+Modules
+Components
+Templates
+Directives
+Services & Dependency injection
+Angular CLI
+NPM
+Classes, interfaces & Decorators
+Component lifecycle hooks
+@Input @Output
+Change detection strategies
+Structural directives
+Attribute directives
+Custom directives
+Pipes
+Interpolation
+Property binding
+Event binding
+Two way binding
+Dependency injection
+Hierarchical injector
+@Inject and Injectable
+Routing
+Template driven forms
+Reactive forms
+Event emitters
+RxJS & state managment
+Actions, reducers and selectors
+Effects & store
+Observables & subscription
+Subjects
+Unsubscribing
+HTTP Client
+JWT with angular
