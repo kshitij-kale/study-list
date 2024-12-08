@@ -1,0 +1,42 @@
+Availability
+Reliability
+Scalabiilty
+Maintainibility
+Fault Tolerence
+DNS Resolution
+Load Balancers
+Consistent Hashing
+Types of databases
+Indexing
+Bloom fitlers
+Append log
+Replication
+Partitioning
+Key-value stores
+CDN
+Sequencer
+Distribuetd monitoring
+Caching
+Message Queue
+Pub-sub
+Rate limiter
+Blob store
+Distribued search
+Distributed logging
+Distributed task scheduler
+Shared Counters
+Stream processing
+Batch processing
+Youtube
+Quora
+Google maps
+Yelp
+Uber
+Twitter
+Newsfeed
+Instagram
+TinyURL
+Web Crawler
+WhatsApp
+Typehead suggestion
+Google docs
