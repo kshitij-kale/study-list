@@ -1,0 +1,14 @@
+DDL, DML, DCL
+Transactions
+ACID
+Joins
+Subqueries
+Aggregate functions
+Contraints
+Normalization & Denormalization(1NF, 2NF, 3NF, BCNF)
+Procedures & functions
+Before & After triggers
+Isolation levels
+Window functions
+Common table expression
+Functional indexes
