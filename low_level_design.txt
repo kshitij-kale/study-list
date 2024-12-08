@@ -1,0 +1,58 @@
+Object oriented desing & analysis
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+Single responsibility principle
+Open closed principle
+Liskov substitution principle
+Inherface segregation princple
+Dependency inversion
+Builder
+Factory
+Abstract factory
+Factory method
+Prototype
+Singleton
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+COR
+Command
+Mementor
+Observer
+Template method
+Visitor
+Iterator
+Mediator
+State
+Strategy
+Use case diagram
+Class diagram
+Sequence diagram
+Activity diagram
+Parking lot
+Elevator system
+Libary management system
+Amazon locker service
+Vending machine
+Online blackjack game
+Meeting scheduler
+Movie ticketing system
+Car rental service
+ATM
+Chess game
+Hotel managment system
+Amazon online shopping system
+Stack overflow
+Restaurant management system
+Facebook
+Online stock brokerage system
+Jigsaw puzzle 
+Airplane booking system
+Crikinfo
+Linkedin
