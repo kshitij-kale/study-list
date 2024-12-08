@@ -1,0 +1,13 @@
+Program, process, threads
+Concurrency vs Parallelism
+Mutex, Semaphore
+Deadlocks
+Amdahl's law
+Moore's law
+Syncronized
+Volatile
+Atomic class
+Thread pool
+Executor service
+Runnable
+Callable
