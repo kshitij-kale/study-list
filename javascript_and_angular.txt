@@ -12,7 +12,7 @@ Event handling
 Destructuring
 Spread & Rest operators
 Import & Export
-Contruction functions
+Contructor functions
 this keyword
 Inheritance vs composition
 Global, function & block scopes
