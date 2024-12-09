@@ -5,9 +5,14 @@ Syncronous & Asyncronous
 Critical section
 Synchronized
 Race conditions
+DeadLock & Liveness
+Live-Lock
+Starvation
+Reentrant lock
+Locking & signalling
 test-then-act
 Mutex, Semaphore
-Deadlocks
+Semaphore for signalling
 Amdahl's law
 Moore's law
 Volatile
