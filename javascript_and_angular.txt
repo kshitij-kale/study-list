@@ -13,7 +13,7 @@ Destructuring
 Spread & Rest operators
 Import & Export
 Contructor functions
-this keyword
+this
 Inheritance vs composition
 Global, function & block scopes
 Hoisting
