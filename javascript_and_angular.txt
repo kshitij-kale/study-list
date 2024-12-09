@@ -2,7 +2,7 @@ var, let & const
 Type coresion
 Arrow functions
 Closures & Lexical scopes
-Immediaetly invoked function expressions
+Immediately invoked function expressions
 Error handling
 Event loop
 Promises
