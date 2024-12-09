@@ -1,10 +1,15 @@
 Program, process, threads
 Concurrency vs Parallelism
+Cooperative multitasking & preemtive multitasking
+Syncronous & Asyncronous
+Critical section
+Synchronized
+Race conditions
+test-then-act
 Mutex, Semaphore
 Deadlocks
 Amdahl's law
 Moore's law
-Syncronized
 Volatile
 Atomic class
 Thread pool
