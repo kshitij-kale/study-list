@@ -38,3 +38,5 @@ LCS
 LIS
 Kadane
 Boyer Moore
+Minimum Spanning Tree / Kruskal's algorithm
+Kahn's algorithm
